@@ -1,0 +1,789 @@
+
+
+1 of 11
+CSS
+Inbox
+
+MADHUJIT V 21EIR046
+Wed, Jan 24, 8:59 PM (6 days ago)
+to me
+
+.lbutton {
+    border: 3px solid rgb(5, 4, 4); /* Set border to 3px solid with blue color */
+    /* line-height: 2.5; */
+    padding: 0 20px;
+    font-size: 1rem;
+    text-align: center;
+    color:#0f0c0c;
+    border-radius: 5%;
+    background-color:rgb(171, 241, 227);
+    position: absolute;
+    right: 90px;
+}
+
+        /* Add some basic styling for better presentation */
+        body {
+            font-family: Arial, sans-serif;
+            background: linear-gradient(to bottom right,#00eeff8a,rgba(249, 241, 7, 0));
+            background-repeat: no-repeat;
+            height: 500px;
+        }
+        
+        .header-content {
+            display: flex;
+            align-items: center;
+        }
+        .cir{
+            position: absolute;
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+            left: 750px;
+            top: 32px;
+        }
+        .line ul  {
+            list-style-type: none;
+            
+        }
+        .line li {
+            display: inline-block;
+            margin: 0 20px;
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+            font-size: 20px;
+            position: relative;
+            left: 300px;
+        }
+        .fir ul{
+            list-style-type: none;
+            display: flex;
+            
+        }
+        .fir li {
+            display: inline-block;
+            margin: 0 20px;
+            padding: 15px 10px;
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+            font-size: 20px;
+        }
+        .im{
+            height: 30px;
+            width: 30px;
+            position: absolute;
+            left: 715px;
+            top: 38px;
+            
+            
+        }
+        .bl{
+            height: 300px;
+            width: 900px;
+        }
+        .pow{
+            position: absolute;
+            left: 360px;
+            top: 100px;
+            font-size: 50px;
+            font-style: oblique;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            
+
+        }
+        .pow2{
+            text-align: center;
+            position: absolute;
+            top: 280px;
+            font-size: 23px;
+            left: 450px;
+        }
+        .sbutton {
+            border: 3px solid rgb(5, 4, 4); 
+            padding: 0 20px;
+            font-size: 18px;
+            text-align: center;
+            color:white;
+            border-radius: 5%;
+            width: 200px;
+            height: 50px;
+            background-color:rgb(9, 210, 229);
+            position: absolute;
+            top: 410px;
+            left: 650px;
+        }
+        .cus{
+            text-align: center;
+            position: absolute;
+            font-style: bold;
+            padding: 2px;
+            width: 100px;
+            height: 13px;
+            border-radius: 10px;
+            color:rgb(43, 183, 222);
+            background-color: rgb(161, 243, 219);
+            font-size: 10px;
+            position: absolute;
+            top: 870px;
+            left: 700px;
+            
+        }
+        .ach{
+            font-size: 33px;
+            position: absolute;
+            top:870px;
+            left:430px ;
+            
+        }
+        .s4{
+            display:flex;
+            
+            align-items: center;
+            flex-direction: row;
+            flex-wrap: wrap;
+            position: absolute;
+            top:970px;
+            left: 280px;
+        }
+        .s4 img{
+            margin-right: 30px;
+        }
+        .ACH ul{
+            
+            display: flex;
+            
+        }
+        .ACH li {
+            display: inline-block;
+           
+            margin: 0 20px;
+            padding: 15px 10px;
+            font-size: 15px;
+    
+        }
+        .ACH{
+            position: absolute;
+            top: 1020px;
+            left: 370px;
+        }
+        
+        
+        .image {
+            width: 60%;
+            height: 80%;
+            object-fit: contain;  
+            position: absolute;
+            top: 350px;
+            left: 310px;
+
+        }
+        .pro{
+            text-align: center;
+            position: absolute;
+            font-style: bold;
+            padding: 2px;
+            width: 100px;
+            height: 13px;
+            border-radius: 10px;
+            color:rgb(43, 183, 222);
+            background-color: rgb(210, 234, 232);
+            font-size: 10px;
+            position: absolute;
+            top: 1200px;
+            left: 200px;
+        }
+        .tool{
+            position: absolute;
+            font-size: 30px;
+            left:190px ;
+            top: 1200px;
+        }
+        .love{
+            position: absolute;
+            left:190px ;
+            top: 1290px;
+            font-size: 20px;
+        }
+        .s1button {
+            font-size: 20px;
+            text-align: center;
+            color: white;
+            border: none;
+            border-radius: 0%;
+            width: 200px;
+            height: 50px;
+            background-color: rgb(9, 210, 229);
+            position: absolute;
+            top: 1500px;
+            left: 190px;
+        }
+        .image2 {
+            width: 33%;
+            height: 67%;
+            border-radius: 15px;
+            object-fit: cover;  
+            position: absolute;
+            top: 1150px;
+            left: 750px;
+
+        }
+        .awards{
+            text-align: center;
+            position: absolute;
+            font-style: bold;
+            padding: 2px;
+            width: 70px;
+            height: 13px;
+            border-radius: 10px;
+            color:rgb(43, 183, 222);
+            background-color: rgb(210, 234, 232);
+            font-size: 10px;
+            position: absolute;
+            top: 1800px;
+            left: 680px;
+        }
+        .win{
+            font-size: 33px;
+            position: absolute;
+            top: 1800px;
+            left: 400px;
+        }
+        .G1{
+            text-align: center;
+            position: absolute;
+            top: 1680px;
+            font-size: medium;
+            left: 50px;
+            position: absolute;
+            font-style: bold;
+            padding: 50px;
+            width: 170px;
+            height: 200px;
+            color:black;
+            background-color: rgb(245, 238, 242);
+            position: absolute;
+            top: 1910px;
+            left: 300px;
+            
+        }
+        .G2{
+            text-align: center;
+            position: absolute;
+            top: 1680px;
+            font-size: medium;
+            left: 50px;
+            position: absolute;
+            font-style: bold;
+            padding: 50px;
+            width: 170px;
+            height: 200px;
+            color:black;
+            background-color: rgb(241, 227, 235);
+            position: absolute;
+            top: 1910px;
+            left: 650px;
+            
+        }
+        .G3{
+            text-align: center;
+            position: absolute;
+            top: 1680px;
+            font-size: medium;
+            left: 50px;
+            position: absolute;
+            font-style: bold;
+            padding: 50px;
+            width: 170px;
+            height: 200px;
+            color:black;
+            background-color: rgb(205, 239, 240);
+            position: absolute;
+            top: 1910px;
+            left: 1000px;
+            
+        }
+        .G4{
+            text-align: center;
+            position: absolute;
+            top: 1680px;
+            font-size: medium;
+            left: 50px;
+            position: absolute;
+            font-style: bold;
+            padding: 50px;
+            width: 170px;
+            height: 200px;
+            color:black;
+            background-color: rgb(224, 234, 234);
+            position: absolute;
+            top: 2250px;
+            left: 300px;
+            
+        }
+        .G5{
+            text-align: center;
+            position: absolute;
+            top: 1680px;
+            font-size: medium;
+            left: 50px;
+            position: absolute;
+            font-style: bold;
+            padding: 50px;
+            width: 170px;
+            height: 200px;
+            color:black;
+            background-color: rgb(251, 240, 233);
+            position: absolute;
+            top: 2250px;
+            left: 650px;
+            
+        }
+        .G6{
+            text-align: center;
+            position: absolute;
+            top: 1680px;
+            font-size: medium;
+            left: 50px;
+            position: absolute;
+            font-style: bold;
+            padding: 50px;
+            width: 170px;
+            height: 200px;
+            color:black;
+            background-color: rgb(247, 222, 242);
+            position: absolute;
+            top: 2250px;
+            left: 1000px;
+            
+        }
+        .built{
+            text-align: center;
+            position: absolute;
+            font-style: bold;
+            padding: 2px;
+            width: 120px;
+            height: 14px;
+            border-radius: 10px;
+            color:rgb(43, 183, 222);
+            background-color: rgb(210, 234, 232);
+            font-size: 10px;
+            position: absolute;
+            top: 2650px;
+            left: 730px;
+        }
+        .exp{
+            position: absolute;
+            font-size: 32px;
+            top: 2640px;
+            left: 520px;
+            
+        }
+        .ord {
+            list-style: none; 
+            padding: 0;
+            display: flex;
+            justify-content: space-between;
+            position: absolute;
+            top: 2800px;
+            left: 200px;
+            font-size: 22px;
+        }
+
+        li {
+            display: inline-block;
+            cursor: pointer; 
+            position: relative;
+            transition: color 0.3s; 
+            margin-left: 100px;
+            margin-right: 70px;
+        }
+
+        li:hover {
+            color: #1ac9f5;
+        }
+
+        li:hover::after {
+            content: "";
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            height: 5px;
+            background-color: #1ac9f5; 
+            
+        }
+        .G7{
+            font-size: 30px;
+            left: 50px;
+            position: absolute;
+            font-style: bold;
+            padding: 150px;
+            width: 1170px;
+            height: 100px;
+            color:black;
+            background-color: rgb(236, 255, 253);
+            top: 2827px;
+            left: 0%;
+        }
+        .CR{
+            
+            display: flex;
+            flex-direction: column;
+            position: absolute;
+            top: 10px;
+
+            
+        }
+        .CR1{
+            position: absolute;
+            top: 50px;
+        }
+        .CR2{
+            position: absolute;
+            top: 120px;
+        }
+        .mon{
+            position: absolute;
+            top: 60px;
+            left: 800px;
+        }
+        .s2button {
+            font-size: 20px;
+            text-align: center;
+            color: white;
+            border: none;
+            border-radius: 0%;
+            width: 200px;
+            height: 50px;
+            background-color: rgb(9, 210, 229);
+            position: absolute;
+            top: 250px;
+            left: 190px;
+        }
+        .TS{
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            padding: 3px;
+            width: 80px;
+            height: 13px;
+            border-radius: 10px;
+            color:rgb(43, 183, 222);
+            background-color: rgb(210, 234, 232);
+            font-size: 10px;
+            position: absolute;
+            top: 3400px;
+            left: 330px;
+        }
+        .TS1{
+            position: absolute;
+            top: 3400px;
+            left: 330px;
+
+        }
+        .s3button {
+            font-size: 15px;
+            text-align: center;
+            color: white;
+            border: none;
+            border-radius: 0%;
+            width: 180px;
+            height: 40px;
+            background-color: rgb(9, 210, 229);
+            position: absolute;
+            top: 3550px;
+            left: 330px;
+        }
+        .sis{
+            position: absolute;
+            top: 3300px;
+            right: 450px ;
+        }
+        .G8{
+            font-size: 30px;
+            left: 50px;
+            position: absolute;
+            font-style: bold;
+            padding: 70px;
+            width: 180px;
+            height: 50px;
+            color:black;
+            background-color: rgb(212, 247, 243);
+            position: absolute;
+            top: 3510px;
+            left: 960px;
+        }
+        .Quote{
+            position: absolute;
+            left: 20px;
+           }
+        .ARTH{
+            position: absolute;
+            top: 130px;
+            left: 20px;
+        }
+        .pay{
+            position: absolute;
+            top: 20px;
+            left: 20px;
+        }
+        .LW{
+            position: absolute;
+            top: 3900px;
+            left: 880px;
+        }
+        .sol{
+            position: absolute;
+            top: 3970px;
+            left: 300px;
+        }
+        .sol1{
+            position: absolute;
+            top: 4070px;
+            left: 300px;
+        }
+        .s4button {
+            font-size: 15px;
+            text-align: center;
+            color: white;
+            border: none;
+            border-radius: 0%;
+            width: 100px;
+            height: 30px;
+            background-color: rgb(9, 210, 229);
+            position: absolute;
+            top: 4150px;
+            left: 300px;
+        }
+        
+            .s5button {
+                font-size: 15px;
+                text-align: center;
+                background-color: white;
+                color: rgb(68, 195, 246);
+                border: 3px solid rgb(9, 210, 229);; /* Add or customize border properties */
+                border-radius: 0%;
+                width: 185px;
+                height: 30px;
+                position: absolute;
+                top: 4150px;
+                left: 440px;
+            }
+            .RES{
+                    position: absolute;
+                    top: 4300px;
+                    left: 700px;
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    text-align: center;
+                    padding: 2px;
+                    width: 100px;
+                    height: 15px;
+                    border-radius: 10px;
+                    color: rgb(43, 183, 222);
+                    background-color: rgb(210, 234, 232);
+                    font-size: 10px;
+            }
+            .RES1{
+                position: absolute;
+                    top: 4310px;
+                    left: 670px;
+
+            }
+            .PB{
+                font-size: 30px;
+                left: 50px;
+                position: absolute;
+                font-style: bold;
+                padding: 150px;
+                width: 1170px;
+                height: 100px;
+                color:black;
+                background-color: rgb(236, 255, 253);
+                top: 4550px;
+                left: 0%;
+            }
+            
+            
+            .G9{
+            text-align: left;
+            font-size: 12px;
+            padding: 120px;
+            width: 150px;
+            height: 200px;
+            color:black;
+            background-color: white;
+            position: absolute;
+            top: 4450px;
+            left: 80px;
+            }
+            .GR1{
+            position: absolute;
+            top: 190px;
+            left: 90px;
+            }
+            .cupidatat{
+                position: absolute;
+                top: 30px;
+                border-radius: 10px;
+                object-fit: cover; 
+                position: absolute;
+                left: 90px;
+            }
+            .GR2{
+                position: absolute;
+                top: 230px;
+                left: 90px;
+                font-size: 12px;
+                }
+                .s6button {
+                    font-size: 15px;
+                    text-align: center;
+                    color: white;
+                    border: none;
+                    border-radius: 0%;
+                    width: 110px;
+                    height: 35px;
+                    background-color: rgb(9, 210, 229);
+                    position: absolute;
+                    top: 350px;
+                    left: 90px;
+                }
+                .cupidatat{
+                    position: absolute;
+                    top: 30px;
+                    border-radius: 10px;
+                    object-fit: cover; 
+                }
+                .G10{
+                text-align: left;
+                font-size: 12px;
+                padding: 120px;
+                width: 150px;
+                height: 200px;
+                color:black;
+                background-color: white;
+                position: absolute;
+                top: 4450px;
+                left: 550px;
+                }
+                .GR3{
+                position: absolute;
+                top: 190px;
+                left: 90px;
+                }
+                .FB{
+                    position: absolute;
+                    
+                    border-radius: 10px;
+                    object-fit: cover; 
+                    position: absolute;
+                    left: 90px;
+                    top: 30px;
+                }
+                .GR4{
+                    position: absolute;
+                    top: 230px;
+                    left: 90px;
+                    font-size: 12px;
+                    }
+                    .s7button {
+                        font-size: 15px;
+                        text-align: center;
+                        color: white;
+                        border: none;
+                        border-radius: 0%;
+                        width: 110px;
+                        height: 35px;
+                        background-color: rgb(9, 210, 229);
+                        position: absolute;
+                        top: 350px;
+                        left: 90px;
+                    }
+                    .G11{
+                        text-align: left;
+                        font-size: 12px;
+                        padding: 120px;
+                        width: 150px;
+                        height: 200px;
+                        color:black;
+                        background-color: white;
+                        position: absolute;
+                        top: 4450px;
+                        left: 1020px;
+                        }
+                        .GR5{
+                        position: absolute;
+                        top: 190px;
+                        left: 90px;
+                        }
+                        .work{
+                            position: absolute;
+                            
+                            border-radius: 10px;
+                            object-fit: cover; 
+                            position: absolute;
+                            left: 90px;
+                            top: 30px;
+                        }
+                        .GR6{
+                            position: absolute;
+                            top: 230px;
+                            left: 90px;
+                            font-size: 12px;
+                            }
+                            .s8button {
+                                font-size: 15px;
+                                text-align: center;
+                                color: white;
+                                border: none;
+                                border-radius: 0%;
+                                width: 110px;
+                                height: 35px;
+                                background-color: rgb(9, 210, 229);
+                                position: absolute;
+                                top: 350px;
+                                left: 90px;
+                            }
+                            .BB{
+                                font-size: 30px;
+                                left: 50px;
+                                position: absolute;
+                                font-style: bold;
+                                padding: 150px;
+                                width: 1170px;
+                                height: 100px;
+                                color:black;
+                                background-color: black;
+                                top: 4950px;
+                                left: 0%;
+                            }
+                            .lasst{
+                                display: flex;
+                                flex-direction: row;
+                                position: absolute;
+                                top: 4910px;
+                                left: 520px;
+                            
+                            
+                        }
+                        .coll{
+                            display: flex;
+                            flex-direction: column;
+                        }
+                        .lastrig{
+                            display: flex;
+                            flex-direction: row;
+                            padding: 50px;
+                            text-align: center;
+                            font-family: 'Segoe UI';
+                            color: aliceblue;
+                        }
+                        .pad{
+                            padding: 15px;
+                        }
+                         .final{
+                            display: flex;
+                            flex-direction: row;
+                            height: 5rem;
+                            width: 100%;
+                            position: absolute;
+                            top: 5310px;
+                        
+                    } 
